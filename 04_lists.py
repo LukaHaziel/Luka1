@@ -9,7 +9,7 @@ my_other_list = []
 
 print(len(my_list))
 
-my_list = [35, 24, 62, 52, 30, 30, 17]
+my_list = [40, 28, 64, 54, 40, 30, 34]
 
 print(my_list)
 print(len(my_list))
@@ -89,6 +89,6 @@ print(my_new_list[1:3])
 
 # Cambio de tipo
 
-my_list = "Hola Python"
+my_list = "Hola Persona humana"
 print(my_list)
 print(type(my_list))
